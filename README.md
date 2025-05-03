@@ -1,25 +1,80 @@
-<h1 align="center">Hi 👋, I'm Md. Abu Bakar</h1>
-<h3 align="center">Hello! I’m Md. Abu Bakar Siddiq Tapu, a dedicated and passionate full-stack web developer from Bangladesh with a background in Computer Science and Engineering. I specialize in building responsive, dynamic, and scalable web applications using modern technologies like React, Tailwind CSS, JavaScript, Express.js, and MongoDB. My journey into tech has been driven by curiosity, creativity, and a strong desire to solve real-world problems through thoughtful design and clean code. Over the years, I’ve completed several certified courses, earned a fully funded scholarship for a two-semester Quantum Computing program by Qubit by Qubit, and developed hands-on experience by building full-stack projects. I’ve also contributed to academic research and hold multiple certificates showcasing my commitment to continuous learning and growth. I love working in collaborative environments, sharing ideas, and learning from others. My goal is to contribute to meaningful projects that positively impact people’s lives while continuously improving my technical and problem-solving skills. I strive to combine my theoretical knowledge, practical experience, and strong work ethic to grow as a developer and make a lasting contribution to the tech world. I’m always ready to embrace challenges, push my limits, and work on innovations that can bring real value to the community.</h3>
+# Hi 👋, I'm Md. Abu Bakar Siddiq
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar7447&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar7447" /> </p>
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MySQL, Prisma, GraphQL, AWS**
+Hello! I’m **Md. Abu Bakar Siddiq Tapu**, a dedicated and passionate **full-stack web developer** from **Bangladesh** with a background in **Computer Science and Engineering**.
 
-- 👨‍💻 All of my projects are available at [https://personal-website-five-rust-38.vercel.app/](https://personal-website-five-rust-38.vercel.app/)
+I specialize in building responsive, dynamic, and scalable web applications using modern technologies like **React**, **Tailwind CSS**, **JavaScript**, **Express.js**, and **MongoDB**. My journey into tech has been driven by curiosity, creativity, and a strong desire to solve real-world problems through thoughtful design and clean code.
 
-- 💬 Ask me about **React Js, Next Js, Redux, MongoDB, Mongoose, Firebase.**
+🧠 Over the years:
+- Completed certified courses
+- Earned a fully funded scholarship in Quantum Computing (Qubit by Qubit)
+- Built hands-on full-stack projects
+- Contributed to academic research
+- Earned multiple certificates proving continuous learning
 
-- 📫 How to reach me **mdabsiddiq04@gmail.com**
+🌱 I’m currently learning **MySQL**, **Prisma**, **GraphQL**, **AWS**, and **Docker**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1od6PIFbne03qBaKvlQx8Hn2yjFtpV0Fk/view](https://drive.google.com/file/d/1od6PIFbne03qBaKvlQx8Hn2yjFtpV0Fk/view)
+💬 Ask me about **React Js**, **Next Js**, **Redux**, **MongoDB**, **Mongoose**, **Firebase**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md. abu bakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. abu bakar" height="30" width="40" /></a>
-<a href="https://fb.com/topu siddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="topu siddiq" height="30" width="40" /></a>
+📫 Reach me at:  
+📧 [mdabsiddiq04@gmail.com](mailto:mdabsiddiq04@gmail.com)  
+🔗 [**Md. Abu Bakar**](https://www.linkedin.com/in/md-abu-bakar-21662b244/)
+
+🌐 All of my projects: [Portfolio Website](https://personal-website-five-rust-38.vercel.app/)
+
+📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1od6PIFbne03qBaKvlQx8Hn2yjFtpV0Fk/view)
+
+---
+
+## 🚀 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar7447&show_icons=true&locale=en&layout=compact" alt="abubakar7447" /></p>
+## 📌 Pinned Projects
+
+### **Food Village**
+- 🌐 Website: [foodvillage-6be43.web.app](https://foodvillage-6be43.web.app/)
+- 💻 GitHub Client: [foodvillage-client](https://github.com/ABuBakar7447/foodvillage-client)
+
+---
+
+### **WedRoad**
+- 🌐 Website: [used-wedding-accessories-69b55.web.app](https://used-wedding-accessories-69b55.web.app/)
+- 💻 GitHub Client: [used-wedding-accessories-client](https://github.com/ABuBakar7447/used-wedding-accessories-client)
+
+---
+
+### **GadgetFlow**
+- 🌐 Website: [gadgetflow-347ef.web.app](https://gadgetflow-347ef.web.app/)
+- 💻 GitHub Client: [gadgetFlow-client](https://github.com/ABuBakar7447/gadgetFlow-client)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABuBakar7447&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABuBakar7447&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABuBakar7447&layout=compact&theme=radical" alt="Top Languages" />
+</p>
