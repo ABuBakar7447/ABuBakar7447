@@ -1,4 +1,4 @@
-![Cover Image](![Cover Image](https://raw.githubusercontent.com/ABuBakar7447/ABuBakar7447/main/cover.png)
+![Cover Image](https://raw.githubusercontent.com/ABuBakar7447/ABuBakar7447/main/cover.png)
 
 # Hi 👋, I'm Md. Abu Bakar Siddiq
 
