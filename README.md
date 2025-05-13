@@ -1,3 +1,4 @@
+![Cover Image](https://raw.githubusercontent.com/ABuBakar7447/ABuBakar7447/main/cover-img.jpg)
 
 # Hi 👋, I'm Md. Abu Bakar Siddiq
 
