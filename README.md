@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABuBakar7447/ABuBakar7447/main/cover.png" alt="Cover Image" width="100%" height="200px" />
-</p>
-
+![Cover Image](https://raw.githubusercontent.com/ABuBakar7447/ABuBakar7447/main/cover.jpg)
 
 # Hi 👋, I'm Md. Abu Bakar Siddiq
 
